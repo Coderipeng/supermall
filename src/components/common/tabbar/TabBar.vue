@@ -16,7 +16,7 @@
     background-color: #fff;
     position: fixed;
     left: 0;
-    bottom: 0;
+    bottom: 0px;
     right: 0;
     box-shadow: 0 -3px 1px rgba(100,100,100,.2);
   }
